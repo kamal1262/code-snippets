@@ -1,4 +1,5 @@
-
+#### aws sqs , intro documentation 
+*#url: https://boto3.amazonaws.com/v1/documentation/api/latest/guide/sqs.html*
 
 ###### published a message to sns or sqs 
 # set the aws credentials in console 
